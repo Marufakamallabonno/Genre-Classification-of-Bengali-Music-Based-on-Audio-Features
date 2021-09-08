@@ -4,7 +4,7 @@ Bengali music traverses a great mixture of styles. Music has served the purpose 
 
 Music genre classification is particularly vital for music recommendation and for the retrieval of music information. The purpose of this project is to classify the Bangla music genres by analyzing the audio signals and finding similarities between the same genre. 
 
-Our work is based on a dataset consisting of **690** Bangla songs, divided into six genres: পল্লীগীতি(Polligeeti),  দেশাত্মবোধক(Deshattobodhok), চলচ্চিত্র(Cholochitro), নজরুলগীতি(Nazrulgeeti), রবীন্দ্র সংগীত(RabindraSangeet), আধুনিক বাংলা (Adhunik Bangla) encoded in the mp3 format. We have created our dataset with gold data and label them like following:
+Our work is based on a dataset consisting of **690** Bangla songs, divided into six genres: পল্লীগীতি(Polligeeti),  দেশাত্মবোধক(Deshattobodhok), চলচ্চিত্র(Cholochitro), নজরুলগীতি(Nazrulgeeti), রবীন্দ্র সংগীত(RabindraSangeet), আধুনিক বাংলা (Adhunik Bangla) encoded in the mp3 format using **BeautifulSoup** library. We have created our dataset with gold data and label them like following:
 
 
 | Genre| Label | No of songs|
